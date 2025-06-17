@@ -1,0 +1,79 @@
+[
+  {
+    "nome": "Ecoponto Central",
+    "lat": -23.4266,
+    "lng": -51.9382,
+    "bairro": "centro",
+    "materiais": ["papel", "plastico", "vidro", "metal", "eletronicos"]
+  },
+  {
+    "nome": "Cooperativa Recicla Mais",
+    "lat": -23.4281,
+    "lng": -51.9258,
+    "bairro": "zona norte",
+    "materiais": ["papel", "plastico", "metal"]
+  },
+  {
+    "nome": "Supermercado Verde",
+    "lat": -23.4165,
+    "lng": -51.9395,
+    "bairro": "zona norte",
+    "materiais": ["plastico", "vidro", "oleo"]
+  },
+  {
+    "nome": "UBS Zona 5",
+    "lat": -23.4180,
+    "lng": -51.9300,
+    "bairro": "zona 05",
+    "materiais": ["papel", "oleo"]
+  },
+  {
+    "nome": "Câmara Municipal",
+    "lat": -23.4220,
+    "lng": -51.9375,
+    "bairro": "centro",
+    "materiais": ["eletronicos", "papel"]
+  },
+  {
+    "nome": "Condor Av. Paraná",
+    "lat": -23.4262,
+    "lng": -51.9218,
+    "bairro": "zona norte",
+    "materiais": ["oleo"]
+  },
+  {
+    "nome": "4º BPM",
+    "lat": -23.4240,
+    "lng": -51.9290,
+    "bairro": "zona 04",
+    "materiais": ["vidro"]
+  },
+  {
+    "nome": "Tiro de Guerra",
+    "lat": -23.4250,
+    "lng": -51.9350,
+    "bairro": "centro",
+    "materiais": ["vidro"]
+  },
+  {
+    "nome": "Paço Municipal",
+    "lat": -23.4235,
+    "lng": -51.9340,
+    "bairro": "centro",
+    "materiais": ["eletronicos"]
+  },
+  {
+    "nome": "Paróquia São Francisco",
+    "lat": -23.4300,
+    "lng": -51.9350,
+    "bairro": "jardim social",
+    "materiais": ["vidro"]
+  },
+  {
+    "nome": "Cidade Canção",
+    "lat": -23.4195,
+    "lng": -51.9265,
+    "bairro": "centro",
+    "materiais": ["oleo"]
+  }
+]
